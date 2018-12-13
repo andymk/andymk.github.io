@@ -1,21 +1,19 @@
-title: Your awesome title
-subtitle: ...and more title
-author: Blog Author
-avatar_url: /assets/img/unknown-avatar.png  # Should be 160x160px.
+title: Andy Knight Blog
+subtitle: Web & .Net Developer
+author: Andy Knight
+avatar_url: /assets/img/avatar-1.jpg  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-repository: haacked/haackbar
+  Blogging about web development and .Net experiences in the city of London.
+repository: andymk/andymk
 
 # contact
 contact:
-  email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
+#  email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: andymk
+github_username:  andymk
 rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
