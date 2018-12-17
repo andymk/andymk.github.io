@@ -1,69 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>http://www.andyknight.net/archive/2018/12/13/setting-up-blogging-with-github/</loc>
-      <lastmod>2018-12-13T00:00:00+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/archive/2018/12/12/welcome-to-my-blog/</loc>
-      <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/404.html</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/archives/</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/contributors/</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/debug/</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/assets/css/main.css</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/thanks/</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/assets/css/style.css</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
-   <url>
-      <loc>http://www.andyknight.net/feed.xml</loc>
-      <lastmod>2018-12-17T16:02:32+00:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
-   </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.andyknight.net/</loc>
+  <lastmod>2018-12-17T16:10:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.andyknight.net/archives/</loc>
+  <lastmod>2018-12-17T16:10:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.andyknight.net/contributors/</loc>
+  <lastmod>2018-12-17T16:10:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.andyknight.net/archive/2018/12/13/setting-up-blogging-with-github/</loc>
+  <lastmod>2018-12-17T16:10:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.andyknight.net/archive/2018/12/12/welcome-to-my-blog/</loc>
+  <lastmod>2018-12-17T16:10:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
