@@ -1,20 +1,6 @@
-.bundle
+_site
 .sass-cache
 .jekyll-metadata
-Gemfile.lock
-_site
-*.gem
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Mac crap
-.DS_Store
+/haacked-theme-0.1.0.gem
+/Gemfile.lock

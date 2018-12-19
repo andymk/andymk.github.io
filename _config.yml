@@ -3,7 +3,7 @@ subtitle: Web & .Net Developer
 author: Andy Knight
 avatar_url: /assets/img/avatar-1.jpg  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Blogging about web development and .Net experiences in the city of London.
+  Blogging about web development and .Net experiences in the city of London. Angular, React, .Net Core, WebApi and all the cool stuff.
 repository: andymk/andymk
 
 # contact
@@ -57,7 +57,7 @@ haacked-theme:
 # Jekyll Settings
 #
 permalink: /archive/:year/:month/:day/:title/
-paginate: 2 # number of posts per page
+paginate: 5 # number of posts per page
 page_group_size: 5 # number of pages to group by in the pagination.
 paginate_path: "/archive/page/:num"
 category_dir: categories
@@ -100,3 +100,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-redirect-from
