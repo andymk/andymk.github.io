@@ -1,6 +1,6 @@
 ---
 title: "Setting up blogging with Github Pages"
-categories: blogging
+tags: blogging
 author: "Andy Knight"
 ---
 I've been looking around recently for a blogging solution and there's quite a few choices. By far the favourite is Wordpress. However I came across a blog post by [Phil Haack][haacked-post] recently that intrigued me. It uses GitHub pages to serve up static content for a blog. The beauty of it is its fast and lightweight. In combination with the [Jekyll Tool][jekyll-url] I can compile plain text blog posts into neatly formatted html.

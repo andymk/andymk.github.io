@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Useful npm commands"
-categories: npm
+tags: npm
 author: "Andy Knight"
 ---
 NPM (Node Package Manager) is a great command line tool used to managed packages in your project. You can download and install it [here][npm-url]. NPM has become an ever increasingly important tool. Here is just a couple of notes on useful commands.
