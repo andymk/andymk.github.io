@@ -1,4 +1,6 @@
 ---
+layout: post
+comments: true
 title: "Useful npm commands"
 categories: npm
 author: "Andy Knight"
