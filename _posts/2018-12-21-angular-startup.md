@@ -59,4 +59,4 @@ The install parameter will download the bootstrap packages. The start parameter 
 
 ### Finally
 
-This is the very basics on getting a new angular project going. I will continue this with next step to layout components better and routing. Until next time!
+This is the very basics on getting a new angular project going. I will continue this with next steps to layout components and routing. Until next time!
