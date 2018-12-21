@@ -40,7 +40,7 @@ Secondly, open the `angular.json` file. We need to include our css in the `[styl
 
 ### Html Changes
 
-We're go ahead and build our new project shortly but to get started with a bootstrap layout, replace the contents of the `index.html` file with the following:
+We'll go ahead and build our new project shortly but to get started with a bootstrap layout, replace the contents of the `index.html` file with the following:
 
 <script src="https://gist.github.com/andymk/9658e4f0978edf1752a7eac8e3e360a0.js"></script>
 
