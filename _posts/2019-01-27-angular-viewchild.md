@@ -6,8 +6,6 @@ tags: [angular]
 author: "Andy Knight"
 ---
 
-### Intro
-
 The ViewChild function in Angular has many uses, but commonly used to access child elements or directives. Accessing an element allows us to make use of its native html and manipulate it. 
 
 ### Environments

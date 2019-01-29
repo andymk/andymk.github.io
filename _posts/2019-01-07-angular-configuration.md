@@ -6,8 +6,6 @@ tags: [angular]
 author: "Andy Knight"
 ---
 
-### Intro
-
 This is just a quick tip post about using configuration in your Angular app. The framework has already provided a simple and easy approach to this, so lets try it out.
 
 ### Environments

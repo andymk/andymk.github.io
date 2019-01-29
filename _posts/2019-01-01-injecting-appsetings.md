@@ -6,8 +6,6 @@ tags: [netcore]
 author: "Andy Knight"
 ---
 
-### Intro
-
 Back in the old days, we all used to insert connection strings and appsettings into our web.config file, then write a strongly type class to read in these values using the ConfigurationManager namespace. With .Net Core, things are slightly different, but thankfully strongly typed classes are handled for us. Lets see how.
 
 ### Web.config is dead, long live Json

@@ -6,8 +6,6 @@ tags: [netcore]
 author: "Andy Knight"
 ---
 
-### Intro
-
 Years ago I did all my development in Visual Studio. Back then, web apps had an MVC frontend and an API layer, all nicely packaged in one project. But with the latest clientside JS frameworks and .Net Core, the architecture of applications have changed. When Visual Studio 2017 first released, many developers reported issues editing projects with huge JS contents files. At the same time, Visual Studio Code was generating popularity fast as a lightweight, customisable editor, great for managing web applications. Nowadays my "goto" architecture for applications is developing Angular frontend web apps in Visual Studio Code, that communicate with a webapi developed in Visual Studio 2017. Web stuff in Code, .Net Core stuff in VS2017.
 
 ### Enter the dreaded CORS
